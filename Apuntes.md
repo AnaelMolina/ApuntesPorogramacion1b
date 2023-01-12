@@ -1,12 +1,13 @@
+APUNTES PROGRAMACION 1B####
 # <span style ="color:skygreen"> Martes 15/11/2022 Comandos Shortcuts VisualStudioCode--------
   **IDE**
-  //Ctrl R ------> quit version
-  //Ctrl N ------> aparece consola -- Efecto Bash
-  //Ctrl B ------> oculta y muestra el panel
-  //Ctrl D ------> Buscar
-  //Ctrl + Alt ---> selecciona para luego cortar de contenido
-  //Ctrl + Shift + P -----> Muestra direcciones
-  //Ctrl + T -----> buscar palabras en un archivo
+  //Ctrl R ------> quit version;
+  //Ctrl N ------> aparece consola -- Efecto Bash;
+  //Ctrl B ------> oculta y muestra el panel;
+  //Ctrl D ------> Buscar;
+  //Ctrl + Alt ---> selecciona para luego cortar de contenido;
+  //Ctrl + Shift + P -----> Muestra direcciones;
+  //Ctrl + T -----> buscar palabras en un archivo;
   
 # <span style ="color:skygreen"> Jueves 17/11/2022 Comandos Shortcuts VisualStudioCode--------
 1. Command Palette 
@@ -104,11 +105,6 @@ image.png
 
 ## Links
 [youtube](https://www.youtube.com/watch?v=kFaie-Tp1Jw&list=RDQbAOizRHKxs&index=2)
-
-## Imagen
-![Imagen](https://st.depositphotos.com/1625039/1746/i/600/depositphotos_17461085-stock-photo-funny-dachshund.jpg)
-
-![Imagen|100](https://st.depositphotos.com/1625039/1746/i/600/depositphotos_17461085-stock-photo-funny-dachshund.jpg)
 
 >Citas de textos
 
